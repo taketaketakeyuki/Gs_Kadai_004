@@ -1,24 +1,16 @@
-# vue-chat
+# Gs_kadai_004 LINE風でもないけどアプリ
 
-## Project setup
-```
-npm install
-```
+## 課題内容①
+・firebaseをつかってデータを渡す処理
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 工夫した点・こだわった点②
+・どうしても、どうしてもVueが使いたかった
+・m1 MACでVue.jsを使うだけで時間が吹っ飛んだ
+・結局udemy写経になってしまった
+…でも、ログインの実装やobjectやvueを理解しつつ進めることはできた、気がする
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 質問・疑問（あれば）③
+・特に…
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## その他（苦労点、やり切れなかった点のシェア）④
+・全体的に・・・
